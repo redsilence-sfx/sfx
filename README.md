@@ -97,6 +97,8 @@ The goal is to build a music player that feels clean, intelligent, and visually 
 ![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge\&logo=python\&logoColor=3776AB)
 ![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge\&logo=openjdk\&logoColor=ED8B00)
 ![Bash](https://img.shields.io/badge/Bash-111827?style=for-the-badge\&logo=gnubash\&logoColor=4EAA25)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge\&logo=html5\&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge\&logo=css3\&logoColor=1572B6)
 
 ---
 
@@ -111,6 +113,7 @@ The goal is to build a music player that feels clean, intelligent, and visually 
 ![REST API](https://img.shields.io/badge/REST%20API-111827?style=for-the-badge\&logo=fastapi\&logoColor=009688)
 ![GPT API](https://img.shields.io/badge/GPT--4o%20mini-111827?style=for-the-badge\&logo=openai\&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-111827?style=for-the-badge\&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-111827?style=for-the-badge\&logo=json\&logoColor=white)
 
 ---
 
@@ -124,6 +127,7 @@ The goal is to build a music player that feels clean, intelligent, and visually 
 ![UI Design](https://img.shields.io/badge/UI%20Design-111827?style=for-the-badge\&logo=framer\&logoColor=00ff88)
 ![Visual Design](https://img.shields.io/badge/Visual%20Design-111827?style=for-the-badge\&logo=adobecreativecloud\&logoColor=FF61F6)
 ![Instagram Display](https://img.shields.io/badge/Instagram%20Display-111827?style=for-the-badge\&logo=instagram\&logoColor=E4405F)
+![Aesthetic Layout](https://img.shields.io/badge/Aesthetic%20Layout-111827?style=for-the-badge\&logo=palette\&logoColor=00ff88)
 
 ---
 
@@ -132,6 +136,7 @@ The goal is to build a music player that feels clean, intelligent, and visually 
 ![PyQt5](https://img.shields.io/badge/PyQt5-111827?style=for-the-badge\&logo=qt\&logoColor=41CD52)
 ![Music Player](https://img.shields.io/badge/Music%20Player-111827?style=for-the-badge\&logo=applemusic\&logoColor=FF2D55)
 ![Desktop UI](https://img.shields.io/badge/Desktop%20UI-111827?style=for-the-badge\&logo=windows\&logoColor=0078D4)
+![Qt Designer](https://img.shields.io/badge/Qt%20Designer-111827?style=for-the-badge\&logo=qt\&logoColor=41CD52)
 
 ---
 
@@ -145,6 +150,7 @@ The goal is to build a music player that feels clean, intelligent, and visually 
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge\&logo=visualstudiocode\&logoColor=007ACC)
 ![NPM](https://img.shields.io/badge/NPM-111827?style=for-the-badge\&logo=npm\&logoColor=CB3837)
+![PowerShell](https://img.shields.io/badge/PowerShell-111827?style=for-the-badge\&logo=powershell\&logoColor=5391FE)
 
 </div>
 
@@ -241,18 +247,18 @@ The project combines desktop music playback, visual interface design, playlist m
 
 ### ✨ Main Features
 
-| Icon | Feature Area     | Description                                                                     |
-| ---- | ---------------- | ------------------------------------------------------------------------------- |
-| 🎨   | Modern UI/UX     | Clean interface, smooth animations, SVG icons, purple theme, responsive layout  |
-| 🎵   | Audio Playback   | Support for MP3, WAV, OGG, and FLAC audio formats                               |
-| 📚   | Queue & Playlist | Add, remove, reorder songs, create playlists, and manage music flow             |
-| ❤️   | Favorites        | Mark favorite songs with SVG icon-based interaction                             |
-| 🕘   | Recently Played  | Track listening history and recent song activity                                |
-| 🔍   | Search System    | Fast search with real-time results                                              |
-| 🎚️  | Audio Controls   | Equalizer, volume slider, seekable progress bar, shuffle, repeat, and shortcuts |
-| 🧠   | AI Chat Core     | GPT-4o mini and Groq-based chatbot engines                                      |
-| 📊   | Statistics       | Play count, listening time, top songs, and visual charts                        |
-| 🌙   | Extra Features   | Lyrics display, sleep timer, mood colors, and drag & drop support               |
+| Icon | Feature Area     | Description                                                                        |
+| ---- | ---------------- | ---------------------------------------------------------------------------------- |
+| 🎨   | Modern UI/UX     | Clean interface, smooth animations, SVG icons, purple theme, and responsive layout |
+| 🎵   | Audio Playback   | Supports MP3, WAV, OGG, and FLAC audio formats                                     |
+| 📚   | Queue & Playlist | Add, remove, reorder songs, create playlists, and manage music flow                |
+| ❤️   | Favorites        | Mark favorite songs with SVG icon-based interaction                                |
+| 🕘   | Recently Played  | Track listening history and recent song activity                                   |
+| 🔍   | Search System    | Fast search with real-time results                                                 |
+| 🎚️  | Audio Controls   | Equalizer, volume slider, progress bar, shuffle, repeat, and shortcuts             |
+| 🧠   | AI Chat Core     | GPT-4o mini and Groq-based chatbot engines                                         |
+| 📊   | Statistics       | Play count, listening time, top songs, and visual charts                           |
+| 🌙   | Extra Features   | Lyrics display, sleep timer, mood colors, and drag & drop support                  |
 
 ---
 
@@ -440,9 +446,7 @@ I explore AI-powered systems using REST APIs, chatbot engines, and desktop appli
 <a href="https://t.me/travassuperrior">
   <img src="https://img.shields.io/badge/Telegram%202-111827?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
 </a>
-<a href="mailto:redsilence@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-</a>
+<img src="https://img.shields.io/badge/Email-Available%20on%20Request-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 
 </div>
 
@@ -471,7 +475,11 @@ I explore AI-powered systems using REST APIs, chatbot engines, and desktop appli
 
 <div align="center">
 
-![Snake animation](https://github.com/redsilence-sfx/redsilence-sfx/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/redsilence-sfx/redsilence-sfx/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/redsilence-sfx/redsilence-sfx/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/redsilence-sfx/redsilence-sfx/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
